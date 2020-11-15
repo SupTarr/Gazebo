@@ -38,45 +38,45 @@
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
     <state world_name='default'>
-      <sim_time>0 0</sim_time>
-      <real_time>0 0</real_time>
-      <wall_time>1605373600 252526762</wall_time>
-      <iterations>0</iterations>
+      <sim_time>34 161000000</sim_time>
+      <real_time>36 549525196</real_time>
+      <wall_time>1605414547 537649476</wall_time>
+      <iterations>34161</iterations>
       <model name='House_2'>
-        <pose frame=''>38.7107 -4.74664 0 0 -0 0</pose>
+        <pose frame=''>18.7522 -6.2048 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>38.7107 -4.74664 0 0 -0 0</pose>
+          <pose frame=''>18.7522 -6.2048 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='House_2_clone'>
-        <pose frame=''>40.7152 -18.6072 0 0 -0 0</pose>
+        <pose frame=''>8.22037 -17.9028 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>40.7152 -18.6072 0 0 -0 0</pose>
+          <pose frame=''>8.22037 -17.9028 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='House_2_clone_0'>
-        <pose frame=''>18.531 -9.58709 0 0 -0 0</pose>
+        <pose frame=''>18.5322 -17.5562 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>18.531 -9.58709 0 0 -0 0</pose>
+          <pose frame=''>18.5322 -17.5562 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='House_2_clone_1'>
-        <pose frame=''>18.6072 8.88307 0 0 -0 0</pose>
+        <pose frame=''>18.9219 6.3994 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>18.6072 8.88307 0 0 -0 0</pose>
+          <pose frame=''>18.9219 6.3994 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -113,163 +113,153 @@
         </link>
       </model>
       <model name='House_2_clone_7'>
-        <pose frame=''>-21.0537 5.94259 0 0 -0 0</pose>
+        <pose frame=''>-21.3757 1.89866 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-21.0537 5.94259 0 0 -0 0</pose>
+          <pose frame=''>-21.3757 1.89866 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='House_2_clone_8'>
-        <pose frame=''>-21.0118 17.9504 0 0 -0 0</pose>
+        <pose frame=''>-21.4932 19.2664 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-21.0118 17.9504 0 0 -0 0</pose>
+          <pose frame=''>-21.4932 19.2664 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='House_2_clone_9'>
-        <pose frame=''>-9.65395 19.2181 0 0 -0 0</pose>
+        <pose frame=''>-9.55302 19.4759 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-9.65395 19.2181 0 0 -0 0</pose>
+          <pose frame=''>-9.55302 19.4759 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='car_wheel'>
-        <pose frame=''>-22.9174 5.81898 0 0 -0 0</pose>
-        <scale>1 1 1</scale>
-        <link name='link'>
-          <pose frame=''>-22.9174 5.81898 0.21682 0 1.5707 0</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 -0 0 0 -0 0</acceleration>
-          <wrench>-0 -0 0 0 -0 0</wrench>
-        </link>
-      </model>
-      <model name='car_wheel_0'>
-        <pose frame=''>33.6647 -6.18476 0 0 -0 0</pose>
-        <scale>1 1 1</scale>
-        <link name='link'>
-          <pose frame=''>33.6647 -6.18476 0.21682 0 1.5707 0</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0.005889 3.7e-05 -2.2e-05 0 -0 0</acceleration>
-          <wrench>-0.070664 0.000448 -0.000258 0 -0 0</wrench>
-        </link>
-      </model>
-      <model name='car_wheel_0_clone'>
-        <pose frame=''>19.086 8.10739 3.21888 -3.13474 -1.56724 3.13495</pose>
-        <scale>1 1 1</scale>
-        <link name='link'>
-          <pose frame=''>18.8692 8.10734 3.21811 -2.4e-05 -0.003653 0.00021</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0.004239 3.7e-05 -1e-05 -3.7e-05 -2.6e-05 -2.2e-05</acceleration>
-          <wrench>-0.050868 0.00044 -0.000118 0 -0 0</wrench>
-        </link>
-      </model>
-      <model name='car_wheel_0_clone_0'>
-        <pose frame=''>20.1967 -19.31 3.21861 -3.13469 -1.56724 3.13489</pose>
-        <scale>1 1 1</scale>
-        <link name='link'>
-          <pose frame=''>19.9799 -19.31 3.21784 -2.5e-05 -0.003653 0.0002</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0.000671 -0.001632 -0.000799 0.010096 0.004967 -0.001298</acceleration>
-          <wrench>0.008047 -0.01958 -0.009589 0 -0 0</wrench>
-        </link>
-      </model>
       <model name='car_wheel_0_clone_1'>
-        <pose frame=''>9.61925 19.3025 3.21888 -3.13474 -1.56724 3.13495</pose>
+        <pose frame=''>7.55678 18.7882 0.224015 2.53419 1.16762 0.279667</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>9.40243 19.3025 3.21811 -2.4e-05 -0.003653 0.00021</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0.002595 2.2e-05 -1.2e-05 -7e-06 3e-05 -9e-06</acceleration>
-          <wrench>-0.031143 0.000263 -0.000142 0 -0 0</wrench>
-        </link>
-      </model>
-      <model name='car_wheel_0_clone_2'>
-        <pose frame=''>-21.723 7.50993 3.21888 -3.13474 -1.56724 3.13495</pose>
-        <scale>1 1 1</scale>
-        <link name='link'>
-          <pose frame=''>-21.9398 7.50988 3.21811 -2.4e-05 -0.003653 0.00021</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0.000565 -8.1e-05 2.8e-05 -0.000168 -0.000229 0.00037</acceleration>
-          <wrench>0.006776 -0.000972 0.000338 0 -0 0</wrench>
+          <pose frame=''>7.43354 18.624 0.154164 2.9028 -0.327919 0.926752</pose>
+          <velocity>0.363084 -0.710233 -0.155894 1.1018 0.983173 2.91492</velocity>
+          <acceleration>6.8662 2.09845 1.05234 0.128247 -1.24596 -0.037095</acceleration>
+          <wrench>82.3944 25.1814 12.628 0 -0 0</wrench>
         </link>
       </model>
       <model name='car_wheel_0_clone_3'>
-        <pose frame=''>-20.339 4.61444 3.21861 -3.13469 -1.56724 3.13489</pose>
+        <pose frame=''>-22.0612 2.95329 3.2193 -0.874681 -1.57053 1.31278</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-20.5558 4.6144 3.21784 -2.5e-05 -0.003653 0.0002</pose>
+          <pose frame=''>-22.2575 2.86131 3.21933 -0.000204 7.4e-05 0.438099</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 -0 0 0 -0 0</acceleration>
-          <wrench>2e-06 -0 1e-06 0 -0 0</wrench>
+          <acceleration>-6.1e-05 0.001982 -1e-06 -3.6e-05 -0 -0.000105</acceleration>
+          <wrench>-0.000736 0.023781 -7e-06 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='car_wheel_0_clone_3_clone'>
+        <pose frame=''>-22.3049 20.0084 3.2193 -0.874257 -1.57053 1.31236</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose frame=''>-22.5012 19.9164 3.21934 -0.000204 7.5e-05 0.438103</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='car_wheel_0_clone_4'>
-        <pose frame=''>-10.2938 0.361918 3.21888 -3.13474 -1.56724 3.13495</pose>
+        <pose frame=''>-10.3556 0.362338 3.21866 -3.13424 -1.56724 3.13445</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-10.5106 0.361872 3.21811 -2.4e-05 -0.003653 0.00021</pose>
+          <pose frame=''>-10.5724 0.362292 3.21788 -2.6e-05 -0.003651 0.000209</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0.003695 3.2e-05 -1.3e-05 0 -0 0</acceleration>
-          <wrench>-0.044342 0.000389 -0.000162 0 -0 0</wrench>
+          <acceleration>-0.005888 4.1e-05 -2.1e-05 0 -0 0</acceleration>
+          <wrench>-0.07066 0.00049 -0.000258 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='car_wheel_0_clone_4_clone'>
+        <pose frame=''>7.31041 -17.1568 3.21864 -3.13451 -1.56724 3.13471</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose frame=''>7.09359 -17.1568 3.21787 -2.5e-05 -0.003652 0.000199</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-0.005889 3.9e-05 -2.1e-05 0 -0 0</acceleration>
+          <wrench>-0.070665 0.000472 -0.000258 0 -0 0</wrench>
         </link>
       </model>
       <model name='car_wheel_0_clone_4_clone_clone'>
-        <pose frame=''>19.0106 -7.30023 3.21885 -3.13415 -1.56724 3.13464</pose>
+        <pose frame=''>10.3357 -16.8827 2.88316 -2.1737 0.945985 -0.029934</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>18.7938 -7.30034 3.21808 -2.6e-05 -0.003653 0.00049</pose>
+          <pose frame=''>10.2414 -16.7012 2.81124 -2.60558 -0.338006 -1.09145</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0.003374 2.8e-05 -1.2e-05 0 -0 0</acceleration>
-          <wrench>-0.040491 0.000339 -0.000148 0 -0 0</wrench>
+          <acceleration>1e-06 -1e-06 1e-06 4e-05 -3e-06 1.7e-05</acceleration>
+          <wrench>1.1e-05 -1e-05 1.6e-05 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='car_wheel_0_clone_4_clone_clone_0'>
+        <pose frame=''>18.0219 -5.5313 3.21869 -3.13407 -1.56724 3.13427</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose frame=''>17.8051 -5.53134 3.21792 -2.7e-05 -0.003653 0.0002</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-0.003602 2.6e-05 -1.3e-05 0 -0 0</acceleration>
+          <wrench>-0.04322 0.000313 -0.000158 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='car_wheel_0_clone_4_clone_clone_0_clone'>
+        <pose frame=''>18.0059 20.4788 3.21869 -3.13407 -1.56724 3.13427</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose frame=''>17.7891 20.4788 3.21792 -2.7e-05 -0.003653 0.0002</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='car_wheel_0_clone_4_clone_clone_0_clone_0'>
+        <pose frame=''>18.1297 7.03141 3.21871 -3.13396 -1.56724 3.13416</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose frame=''>17.9128 7.03136 3.21794 -2.7e-05 -0.003653 0.0002</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-0.003665 2.7e-05 -1.3e-05 0 -0 0</acceleration>
+          <wrench>-0.043975 0.000323 -0.000161 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='car_wheel_0_clone_4_clone_clone_0_clone_0_clone'>
+        <pose frame=''>6.66347 20.2075 3.21873 -3.13412 -1.56724 3.13431</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose frame=''>6.44665 20.2074 3.21796 -2.7e-05 -0.003652 0.0002</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>-0.003671 2.2e-05 -1.8e-05 4.1e-05 2.2e-05 2.2e-05</acceleration>
+          <wrench>-0.044046 0.000265 -0.00022 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='car_wheel_0_clone_4_clone_clone_0_clone_0_clone_clone'>
+        <pose frame=''>9.33243 20.2215 2.82734 1.67375 1.41078 -2.8508</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose frame=''>9.29167 20.4344 2.82379 2.98241 -0.016281 -1.38167</pose>
+          <velocity>0.001104 0.033294 0.003017 -0.406459 0.006233 0.062585</velocity>
+          <acceleration>0.000568 -0.285194 0.001622 -2.73964 0.010459 -0.77025</acceleration>
+          <wrench>0.006819 -3.42232 0.019468 0 -0 0</wrench>
         </link>
       </model>
       <model name='car_wheel_0_clone_5'>
-        <pose frame=''>-7.50449 19.5314 3.21888 -3.13474 -1.56724 3.13495</pose>
+        <pose frame=''>-8.62136 20.043 0.167524 1.80977 1.19878 1.56935</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-7.72131 19.5314 3.21811 -2.4e-05 -0.003653 0.00021</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0.005886 4.2e-05 -2.1e-05 0 -0 0</acceleration>
-          <wrench>-0.070626 0.000506 -0.000258 0 -0 0</wrench>
-        </link>
-      </model>
-      <model name='car_wheel_0_clone_5_clone'>
-        <pose frame=''>-19.4386 18.1961 3.21868 -3.13385 -1.56724 3.13406</pose>
-        <scale>1 1 1</scale>
-        <link name='link'>
-          <pose frame=''>-19.6554 18.1961 3.21791 -2.8e-05 -0.003653 0.00021</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0.003106 2.5e-05 -1.1e-05 0 -0 0</acceleration>
-          <wrench>-0.037274 0.000301 -0.000136 0 -0 0</wrench>
-        </link>
-      </model>
-      <model name='car_wheel_clone_clone_clone_1_clone'>
-        <pose frame=''>-5.76916 -21.0075 4.96389 0.056544 0.702142 0.09818</pose>
-        <scale>1 1 1</scale>
-        <link name='link'>
-          <pose frame=''>-5.62882 -21.006 5.12916 3.07488 0.866863 -3.13084</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 0 0 0 -0 0</acceleration>
-          <wrench>-0 0 0 0 -0 0</wrench>
-        </link>
-      </model>
-      <model name='car_wheel_clone_clone_clone_clone'>
-        <pose frame=''>-13.7928 15.6295 4.96389 0.056544 0.702142 0.09818</pose>
-        <scale>1 1 1</scale>
-        <link name='link'>
-          <pose frame=''>-13.6525 15.631 5.12916 3.07488 0.866863 -3.13084</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-0 0 0 0 -0 0</acceleration>
-          <wrench>-0 0 0 0 -0 0</wrench>
+          <pose frame=''>-8.41077 19.9949 0.148869 2.77924 -0.086057 2.91693</pose>
+          <velocity>0.682215 0.000958 0.003581 -3.09351 -0.922398 2.81287</velocity>
+          <acceleration>0.058396 6.88126 -0.001133 1.19889 0.513069 -0.113149</acceleration>
+          <wrench>0.70075 82.5751 -0.013595 0 -0 0</wrench>
         </link>
       </model>
       <model name='grey_wall'>
@@ -292,142 +282,142 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='hammer'>
-        <pose frame=''>-13.3422 -7.02657 0 0 -0 0</pose>
-        <scale>1 1 1</scale>
-        <link name='link'>
-          <pose frame=''>-13.3422 -7.02657 0 0 -0 0</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
-        </link>
-      </model>
       <model name='iris_demo'>
-        <pose frame=''>0.007884 0.03427 0 0 -0 0</pose>
+        <pose frame=''>0.00787 0.036702 -0.000424 -0.002123 3e-06 -6.3e-05</pose>
         <scale>1 1 1</scale>
         <link name='gimbal_small_2d::base_link'>
-          <pose frame=''>0.007884 0.02427 0.07 1.57 -0 1.57</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <pose frame=''>0.007869 0.026851 0.069597 1.57 0.002122 1.56994</pose>
+          <velocity>2e-06 1.3e-05 5e-05 -0.000178 2.8e-05 0.000122</velocity>
+          <acceleration>0 -1e-06 -0 4e-06 0.000543 0.256146</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
         <link name='gimbal_small_2d::tilt_link'>
-          <pose frame=''>0.007884 0.02427 0.07 1.57 -0 1.57</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <pose frame=''>0.027854 0.026876 0.089613 3.14079 0.002122 1.56994</pose>
+          <velocity>2e-06 1.9e-05 5e-05 -0.000178 2.9e-05 0.000122</velocity>
+          <acceleration>4e-06 0.005117 -1.1e-05 4e-06 0.000541 0.256145</acceleration>
+          <wrench>0 5.1e-05 -0 0 -0 0</wrench>
         </link>
         <link name='iris::base_link'>
-          <pose frame=''>0.007884 0.03427 0.194923 0 -0 0</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <pose frame=''>0.00787 0.037116 0.194499 -0.002123 3e-06 -6.3e-05</pose>
+          <velocity>5e-06 3.5e-05 4.8e-05 -0.000178 2.8e-05 0</velocity>
+          <acceleration>-0 -2e-06 -0 8e-06 -0 0</acceleration>
+          <wrench>-0 -2e-06 -0 0 -0 0</wrench>
         </link>
         <link name='iris::iris/ground_truth/odometry_sensorgt_link'>
-          <pose frame=''>0.007884 0.03427 0.194923 0 -0 0</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <pose frame=''>0.00787 0.037116 0.194499 -0.002122 3e-06 -6.2e-05</pose>
+          <velocity>5e-06 3.5e-05 4.8e-05 -0.000178 2.8e-05 0.000114</velocity>
+          <acceleration>0 -2e-06 -0 4e-06 0.000506 0.238644</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
         <link name='iris::iris/imu_link'>
-          <pose frame=''>0.007884 0.03427 0.194923 0 -0 0</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <pose frame=''>0.00787 0.037116 0.194499 -0.002122 3e-06 -6.2e-05</pose>
+          <velocity>5e-06 3.5e-05 4.8e-05 -0.000178 2.8e-05 0.000114</velocity>
+          <acceleration>0 -2e-06 -0 4e-06 0.000506 0.238794</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
         <link name='iris::rotor_0'>
-          <pose frame=''>0.137884 -0.18573 0.217923 0 -0 0</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <pose frame=''>0.137857 -0.182843 0.217965 -0.002122 4e-06 0.000203</pose>
+          <velocity>6e-06 3.9e-05 8.4e-05 -0.000178 2.8e-05 -5e-06</velocity>
+          <acceleration>0 -2e-06 -1e-06 4e-06 -0 -9e-06</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
         <link name='iris::rotor_1'>
-          <pose frame=''>-0.122116 0.23427 0.217923 0 -0 0</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <pose frame=''>-0.122117 0.237173 0.217075 -0.002122 3e-06 -0.00014</pose>
+          <velocity>6e-06 3.9e-05 1.6e-05 -0.000178 2.7e-05 -6e-06</velocity>
+          <acceleration>-0 -2e-06 0 4e-06 -0 -8e-06</acceleration>
+          <wrench>-0 -0 0 0 -0 0</wrench>
         </link>
         <link name='iris::rotor_2'>
-          <pose frame=''>0.137884 0.25427 0.217923 0 -0 0</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <pose frame=''>0.137884 0.257156 0.217032 -0.002122 3e-06 0.000165</pose>
+          <velocity>6e-06 3.9e-05 5e-06 -0.000178 2.8e-05 -5e-06</velocity>
+          <acceleration>-0 -2e-06 1e-06 4e-06 -0 -8e-06</acceleration>
+          <wrench>-0 -0 0 0 -0 0</wrench>
         </link>
         <link name='iris::rotor_3'>
-          <pose frame=''>-0.122116 -0.16573 0.217923 0 -0 0</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
+          <pose frame=''>-0.122142 -0.162826 0.217924 -0.002122 3e-06 -0.000159</pose>
+          <velocity>6e-06 3.9e-05 8.8e-05 -0.000178 2.7e-05 -6e-06</velocity>
+          <acceleration>0 -2e-06 -1e-06 4e-06 -0 -8e-06</acceleration>
+          <wrench>0 -0 -0 0 -0 0</wrench>
         </link>
       </model>
       <model name='oak_tree'>
-        <pose frame=''>23.6831 17.5975 0 0 -0 0</pose>
+        <pose frame=''>10.7727 7.88534 0 0 -0 1.58302</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>23.6831 17.5975 0 0 -0 0</pose>
+          <pose frame=''>10.7727 7.88534 0 0 -0 1.58302</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='oak_tree_clone'>
-        <pose frame=''>23.0314 -16.674 0 0 -0 0</pose>
+        <pose frame=''>10.667 -5.45325 0 0 -0 1.5192</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>23.0314 -16.674 0 0 -0 0</pose>
+          <pose frame=''>10.667 -5.45325 0 0 -0 1.5192</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='oak_tree_clone_clone'>
-        <pose frame=''>-13.4312 -19.326 0 0 -0 0</pose>
+        <pose frame=''>-16.2564 -14.3464 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-13.4312 -19.326 0 0 -0 0</pose>
+          <pose frame=''>-16.2564 -14.3464 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='oak_tree_clone_clone_clone'>
-        <pose frame=''>-8.16706 -10.0534 0 0 -0 1.5859</pose>
+        <pose frame=''>-3.84188 -12.98 0 0 -0 1.5859</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-8.16706 -10.0534 0 0 -0 1.5859</pose>
+          <pose frame=''>-3.84188 -12.98 0 0 -0 1.5859</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='person_standing_clone'>
-        <pose frame=''>-11.2257 8.75023 0 1e-06 -1e-06 -0.000133</pose>
+        <pose frame=''>-11.2257 8.75023 -0 1e-06 1e-06 -0.000575</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-11.2257 8.75023 0 1e-06 -1e-06 -0.000133</pose>
+          <pose frame=''>-11.2257 8.75023 -0 1e-06 1e-06 -0.000575</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-1.41312 1.38302 -1.47626 -1.46528 -1.47667 0.045169</acceleration>
-          <wrench>-113.049 110.641 -118.101 0 -0 0</wrench>
+          <acceleration>1.60846 -1.13285 -1.51694 -1.93745 1.4568 -3.09683</acceleration>
+          <wrench>128.677 -90.6281 -121.355 0 -0 0</wrench>
         </link>
       </model>
       <model name='person_standing_clone_0'>
-        <pose frame=''>11.7484 1.23837 0 -0 1e-06 -0.000542</pose>
+        <pose frame=''>11.7485 1.23838 -0 2e-06 -1e-06 -0.001354</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>11.7484 1.23837 0 -0 1e-06 -0.000542</pose>
+          <pose frame=''>11.7485 1.23838 -0 2e-06 -1e-06 -0.001354</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>-1.62333 -1.14117 -1.45022 -1.93183 -1.44426 3.09437</acceleration>
-          <wrench>-129.866 -91.2934 -116.017 0 -0 0</wrench>
+          <acceleration>-1.65894 -1.16327 -1.28192 -1.91097 -1.41419 3.09841</acceleration>
+          <wrench>-132.715 -93.0612 -102.554 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='person_standing_clone_0_clone'>
+        <pose frame=''>-0.338913 -3.29127 0 -1e-06 -1e-06 -0.001733</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose frame=''>-0.338913 -3.29127 0 -1e-06 -1e-06 -0.001733</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>2.20861 -1.52632 1.50179 -1.42903 0.891265 2.93691</acceleration>
+          <wrench>176.689 -122.106 120.143 0 -0 0</wrench>
         </link>
       </model>
       <model name='person_walking'>
-        <pose frame=''>-13.685 -8.38007 0 0 -0 0</pose>
+        <pose frame=''>-13.685 -8.38007 -0 0 1e-06 0.000184</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-13.685 -8.38007 0 0 -0 0</pose>
+          <pose frame=''>-13.685 -8.38007 -0 0 1e-06 0.000184</pose>
           <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>1.63873 3.56268 2.59829 -0.506646 1.19609 3.03434</acceleration>
-          <wrench>131.098 285.014 207.863 0 -0 0</wrench>
+          <acceleration>1.27486 0.004402 -0.494449 -0.004536 1.34196 0.000398</acceleration>
+          <wrench>101.989 0.35217 -39.5559 0 -0 0</wrench>
         </link>
       </model>
       <light name='sun'>
@@ -623,183 +613,9 @@
       </link>
       <pose frame=''>-13.4312 -19.326 0 0 -0 0</pose>
     </model>
-    <model name='car_wheel'>
-      <link name='link'>
-        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
-        <inertial>
-          <mass>12</mass>
-          <inertia>
-            <ixx>0.167005</ixx>
-            <ixy>0</ixy>
-            <ixz>0</ixz>
-            <iyy>0.167005</iyy>
-            <iyz>0</iyz>
-            <izz>0.282065</izz>
-          </inertia>
-        </inertial>
-        <collision name='collision'>
-          <geometry>
-            <cylinder>
-              <radius>0.21682</radius>
-              <length>0.16116</length>
-            </cylinder>
-          </geometry>
-          <surface>
-            <friction>
-              <ode>
-                <mu>1</mu>
-                <mu2>1</mu2>
-                <fdir1>0 0 1</fdir1>
-                <slip1>0</slip1>
-                <slip2>0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-            <contact>
-              <ode>
-                <min_depth>0.005</min_depth>
-                <kp>1e+08</kp>
-              </ode>
-            </contact>
-            <bounce/>
-          </surface>
-          <max_contacts>10</max_contacts>
-        </collision>
-        <visual name='visual'>
-          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
-          <geometry>
-            <mesh>
-              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
-            </mesh>
-          </geometry>
-        </visual>
-        <self_collide>0</self_collide>
-        <enable_wind>0</enable_wind>
-        <kinematic>0</kinematic>
-      </link>
-      <pose frame=''>-22.9174 5.81898 0 0 -0 0</pose>
-    </model>
-    <model name='car_wheel_clone_clone_clone_clone'>
-      <link name='link'>
-        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
-        <inertial>
-          <mass>12</mass>
-          <inertia>
-            <ixx>0.167005</ixx>
-            <ixy>0</ixy>
-            <ixz>0</ixz>
-            <iyy>0.167005</iyy>
-            <iyz>0</iyz>
-            <izz>0.282065</izz>
-          </inertia>
-        </inertial>
-        <collision name='collision'>
-          <geometry>
-            <cylinder>
-              <radius>0.21682</radius>
-              <length>0.16116</length>
-            </cylinder>
-          </geometry>
-          <surface>
-            <friction>
-              <ode>
-                <mu>1</mu>
-                <mu2>1</mu2>
-                <fdir1>0 0 1</fdir1>
-                <slip1>0</slip1>
-                <slip2>0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-            <contact>
-              <ode>
-                <min_depth>0.005</min_depth>
-                <kp>1e+08</kp>
-              </ode>
-            </contact>
-            <bounce/>
-          </surface>
-          <max_contacts>10</max_contacts>
-        </collision>
-        <visual name='visual'>
-          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
-          <geometry>
-            <mesh>
-              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
-            </mesh>
-          </geometry>
-        </visual>
-        <self_collide>0</self_collide>
-        <enable_wind>0</enable_wind>
-        <kinematic>0</kinematic>
-      </link>
-      <pose frame=''>-13.7928 15.6295 4.96389 0.056544 0.702142 0.09818</pose>
-    </model>
-    <model name='car_wheel_clone_clone_clone_1_clone'>
-      <link name='link'>
-        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
-        <inertial>
-          <mass>12</mass>
-          <inertia>
-            <ixx>0.167005</ixx>
-            <ixy>0</ixy>
-            <ixz>0</ixz>
-            <iyy>0.167005</iyy>
-            <iyz>0</iyz>
-            <izz>0.282065</izz>
-          </inertia>
-        </inertial>
-        <collision name='collision'>
-          <geometry>
-            <cylinder>
-              <radius>0.21682</radius>
-              <length>0.16116</length>
-            </cylinder>
-          </geometry>
-          <surface>
-            <friction>
-              <ode>
-                <mu>1</mu>
-                <mu2>1</mu2>
-                <fdir1>0 0 1</fdir1>
-                <slip1>0</slip1>
-                <slip2>0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-            <contact>
-              <ode>
-                <min_depth>0.005</min_depth>
-                <kp>1e+08</kp>
-              </ode>
-            </contact>
-            <bounce/>
-          </surface>
-          <max_contacts>10</max_contacts>
-        </collision>
-        <visual name='visual'>
-          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
-          <geometry>
-            <mesh>
-              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
-            </mesh>
-          </geometry>
-        </visual>
-        <self_collide>0</self_collide>
-        <enable_wind>0</enable_wind>
-        <kinematic>0</kinematic>
-      </link>
-      <pose frame=''>-5.76916 -21.0075 4.96389 0.056544 0.702142 0.09818</pose>
-    </model>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose frame=''>2.3217 0.799203 14.454 0 1.4098 -3.13909</pose>
+        <pose frame=''>20.1164 -5.44574 113.557 0 1.3898 3.10727</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
@@ -909,64 +725,6 @@
       <static>1</static>
       <allow_auto_disable>1</allow_auto_disable>
       <pose frame=''>38.7107 -4.74664 0 0 -0 0</pose>
-    </model>
-    <model name='car_wheel_0'>
-      <link name='link'>
-        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
-        <inertial>
-          <mass>12</mass>
-          <inertia>
-            <ixx>0.167005</ixx>
-            <ixy>0</ixy>
-            <ixz>0</ixz>
-            <iyy>0.167005</iyy>
-            <iyz>0</iyz>
-            <izz>0.282065</izz>
-          </inertia>
-        </inertial>
-        <collision name='collision'>
-          <geometry>
-            <cylinder>
-              <radius>0.21682</radius>
-              <length>0.16116</length>
-            </cylinder>
-          </geometry>
-          <surface>
-            <friction>
-              <ode>
-                <mu>1</mu>
-                <mu2>1</mu2>
-                <fdir1>0 0 1</fdir1>
-                <slip1>0</slip1>
-                <slip2>0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-            <contact>
-              <ode>
-                <min_depth>0.005</min_depth>
-                <kp>1e+08</kp>
-              </ode>
-            </contact>
-            <bounce/>
-          </surface>
-          <max_contacts>10</max_contacts>
-        </collision>
-        <visual name='visual'>
-          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
-          <geometry>
-            <mesh>
-              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
-            </mesh>
-          </geometry>
-        </visual>
-        <self_collide>0</self_collide>
-        <enable_wind>0</enable_wind>
-        <kinematic>0</kinematic>
-      </link>
-      <pose frame=''>33.6647 -6.18476 0 0 -0 0</pose>
     </model>
     <model name='House_2_clone'>
       <link name='link'>
@@ -1922,64 +1680,6 @@
       <allow_auto_disable>1</allow_auto_disable>
       <pose frame=''>-9.4866 -0.389963 0 0 -0 0</pose>
     </model>
-    <model name='car_wheel_0_clone'>
-      <link name='link'>
-        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
-        <inertial>
-          <mass>12</mass>
-          <inertia>
-            <ixx>0.167005</ixx>
-            <ixy>0</ixy>
-            <ixz>0</ixz>
-            <iyy>0.167005</iyy>
-            <iyz>0</iyz>
-            <izz>0.282065</izz>
-          </inertia>
-        </inertial>
-        <collision name='collision'>
-          <geometry>
-            <cylinder>
-              <radius>0.21682</radius>
-              <length>0.16116</length>
-            </cylinder>
-          </geometry>
-          <surface>
-            <friction>
-              <ode>
-                <mu>1</mu>
-                <mu2>1</mu2>
-                <fdir1>0 0 1</fdir1>
-                <slip1>0</slip1>
-                <slip2>0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-            <contact>
-              <ode>
-                <min_depth>0.005</min_depth>
-                <kp>1e+08</kp>
-              </ode>
-            </contact>
-            <bounce/>
-          </surface>
-          <max_contacts>10</max_contacts>
-        </collision>
-        <visual name='visual'>
-          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
-          <geometry>
-            <mesh>
-              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
-            </mesh>
-          </geometry>
-        </visual>
-        <self_collide>0</self_collide>
-        <enable_wind>0</enable_wind>
-        <kinematic>0</kinematic>
-      </link>
-      <pose frame=''>19.086 8.10739 3.21888 -3.13474 -1.56724 3.13495</pose>
-    </model>
     <model name='car_wheel_0_clone_1'>
       <link name='link'>
         <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
@@ -2037,64 +1737,6 @@
         <kinematic>0</kinematic>
       </link>
       <pose frame=''>9.61925 19.3025 3.21888 -3.13474 -1.56724 3.13495</pose>
-    </model>
-    <model name='car_wheel_0_clone_2'>
-      <link name='link'>
-        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
-        <inertial>
-          <mass>12</mass>
-          <inertia>
-            <ixx>0.167005</ixx>
-            <ixy>0</ixy>
-            <ixz>0</ixz>
-            <iyy>0.167005</iyy>
-            <iyz>0</iyz>
-            <izz>0.282065</izz>
-          </inertia>
-        </inertial>
-        <collision name='collision'>
-          <geometry>
-            <cylinder>
-              <radius>0.21682</radius>
-              <length>0.16116</length>
-            </cylinder>
-          </geometry>
-          <surface>
-            <friction>
-              <ode>
-                <mu>1</mu>
-                <mu2>1</mu2>
-                <fdir1>0 0 1</fdir1>
-                <slip1>0</slip1>
-                <slip2>0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-            <contact>
-              <ode>
-                <min_depth>0.005</min_depth>
-                <kp>1e+08</kp>
-              </ode>
-            </contact>
-            <bounce/>
-          </surface>
-          <max_contacts>10</max_contacts>
-        </collision>
-        <visual name='visual'>
-          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
-          <geometry>
-            <mesh>
-              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
-            </mesh>
-          </geometry>
-        </visual>
-        <self_collide>0</self_collide>
-        <enable_wind>0</enable_wind>
-        <kinematic>0</kinematic>
-      </link>
-      <pose frame=''>-21.723 7.50993 3.21888 -3.13474 -1.56724 3.13495</pose>
     </model>
     <model name='car_wheel_0_clone_4'>
       <link name='link'>
@@ -2274,64 +1916,6 @@
         <kinematic>0</kinematic>
       </link>
       <pose frame=''>-8.16706 -10.0534 0 0 -0 1.5859</pose>
-    </model>
-    <model name='car_wheel_0_clone_4_clone_clone'>
-      <link name='link'>
-        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
-        <inertial>
-          <mass>12</mass>
-          <inertia>
-            <ixx>0.167005</ixx>
-            <ixy>0</ixy>
-            <ixz>0</ixz>
-            <iyy>0.167005</iyy>
-            <iyz>0</iyz>
-            <izz>0.282065</izz>
-          </inertia>
-        </inertial>
-        <collision name='collision'>
-          <geometry>
-            <cylinder>
-              <radius>0.21682</radius>
-              <length>0.16116</length>
-            </cylinder>
-          </geometry>
-          <surface>
-            <friction>
-              <ode>
-                <mu>1</mu>
-                <mu2>1</mu2>
-                <fdir1>0 0 1</fdir1>
-                <slip1>0</slip1>
-                <slip2>0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-            <contact>
-              <ode>
-                <min_depth>0.005</min_depth>
-                <kp>1e+08</kp>
-              </ode>
-            </contact>
-            <bounce/>
-          </surface>
-          <max_contacts>10</max_contacts>
-        </collision>
-        <visual name='visual'>
-          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
-          <geometry>
-            <mesh>
-              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
-            </mesh>
-          </geometry>
-        </visual>
-        <self_collide>0</self_collide>
-        <enable_wind>0</enable_wind>
-        <kinematic>0</kinematic>
-      </link>
-      <pose frame=''>19.0106 -7.30023 3.21885 -3.13415 -1.56724 3.13464</pose>
     </model>
     <model name='person_standing_clone'>
       <link name='link'>
@@ -2646,64 +2230,6 @@
       </link>
       <pose frame=''>11.7484 1.23837 0 -0 1e-06 -0.000542</pose>
     </model>
-    <model name='car_wheel_0_clone_0'>
-      <link name='link'>
-        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
-        <inertial>
-          <mass>12</mass>
-          <inertia>
-            <ixx>0.167005</ixx>
-            <ixy>0</ixy>
-            <ixz>0</ixz>
-            <iyy>0.167005</iyy>
-            <iyz>0</iyz>
-            <izz>0.282065</izz>
-          </inertia>
-        </inertial>
-        <collision name='collision'>
-          <geometry>
-            <cylinder>
-              <radius>0.21682</radius>
-              <length>0.16116</length>
-            </cylinder>
-          </geometry>
-          <surface>
-            <friction>
-              <ode>
-                <mu>1</mu>
-                <mu2>1</mu2>
-                <fdir1>0 0 1</fdir1>
-                <slip1>0</slip1>
-                <slip2>0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-            <contact>
-              <ode>
-                <min_depth>0.005</min_depth>
-                <kp>1e+08</kp>
-              </ode>
-            </contact>
-            <bounce/>
-          </surface>
-          <max_contacts>10</max_contacts>
-        </collision>
-        <visual name='visual'>
-          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
-          <geometry>
-            <mesh>
-              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
-            </mesh>
-          </geometry>
-        </visual>
-        <self_collide>0</self_collide>
-        <enable_wind>0</enable_wind>
-        <kinematic>0</kinematic>
-      </link>
-      <pose frame=''>20.1967 -19.31 3.21861 -3.13469 -1.56724 3.13489</pose>
-    </model>
     <model name='car_wheel_0_clone_3'>
       <link name='link'>
         <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
@@ -2761,100 +2287,6 @@
         <kinematic>0</kinematic>
       </link>
       <pose frame=''>-20.339 4.61444 3.21861 -3.13469 -1.56724 3.13489</pose>
-    </model>
-    <model name='car_wheel_0_clone_5_clone'>
-      <link name='link'>
-        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
-        <inertial>
-          <mass>12</mass>
-          <inertia>
-            <ixx>0.167005</ixx>
-            <ixy>0</ixy>
-            <ixz>0</ixz>
-            <iyy>0.167005</iyy>
-            <iyz>0</iyz>
-            <izz>0.282065</izz>
-          </inertia>
-        </inertial>
-        <collision name='collision'>
-          <geometry>
-            <cylinder>
-              <radius>0.21682</radius>
-              <length>0.16116</length>
-            </cylinder>
-          </geometry>
-          <surface>
-            <friction>
-              <ode>
-                <mu>1</mu>
-                <mu2>1</mu2>
-                <fdir1>0 0 1</fdir1>
-                <slip1>0</slip1>
-                <slip2>0</slip2>
-              </ode>
-              <torsional>
-                <ode/>
-              </torsional>
-            </friction>
-            <contact>
-              <ode>
-                <min_depth>0.005</min_depth>
-                <kp>1e+08</kp>
-              </ode>
-            </contact>
-            <bounce/>
-          </surface>
-          <max_contacts>10</max_contacts>
-        </collision>
-        <visual name='visual'>
-          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
-          <geometry>
-            <mesh>
-              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
-            </mesh>
-          </geometry>
-        </visual>
-        <self_collide>0</self_collide>
-        <enable_wind>0</enable_wind>
-        <kinematic>0</kinematic>
-      </link>
-      <pose frame=''>-19.4386 18.1961 3.21868 -3.13385 -1.56724 3.13406</pose>
-    </model>
-    <model name='hammer'>
-      <static>1</static>
-      <link name='link'>
-        <collision name='collision'>
-          <geometry>
-            <mesh>
-              <uri>model://hammer/meshes/hammer.dae</uri>
-            </mesh>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <torsional>
-                <ode/>
-              </torsional>
-              <ode/>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='visual'>
-          <geometry>
-            <mesh>
-              <uri>model://hammer/meshes/hammer.dae</uri>
-            </mesh>
-          </geometry>
-        </visual>
-        <self_collide>0</self_collide>
-        <enable_wind>0</enable_wind>
-        <kinematic>0</kinematic>
-      </link>
-      <pose frame=''>-13.3422 -7.02657 0 0 -0 0</pose>
     </model>
     <model name='iris_demo'>
       <link name='iris::base_link'>
@@ -3868,6 +3300,540 @@
         <kinematic>0</kinematic>
       </link>
       <pose frame=''>-0.081198 0.027968 0 0 -0 0</pose>
+    </model>
+    <model name='person_standing_clone_0_clone'>
+      <link name='link'>
+        <inertial>
+          <pose frame=''>0 -0.1 0.95 0 -0 0</pose>
+          <mass>80</mass>
+          <inertia>
+            <ixx>24.88</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>25.73</iyy>
+            <iyz>0</iyz>
+            <izz>2.48</izz>
+          </inertia>
+        </inertial>
+        <collision name='bottom'>
+          <pose frame=''>0 -0.1 0.01 0 -0 0</pose>
+          <geometry>
+            <box>
+              <size>0.5 0.35 0.02</size>
+            </box>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <collision name='person'>
+          <pose frame=''>0 0 0.02 0.04 -0 0</pose>
+          <geometry>
+            <mesh>
+              <uri>model://person_standing/meshes/standing.dae</uri>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <pose frame=''>0 0 0.02 0.04 -0 0</pose>
+          <geometry>
+            <mesh>
+              <uri>model://person_standing/meshes/standing.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose frame=''>-0.338966 -3.29127 0 -1e-06 1e-06 -0.001217</pose>
+    </model>
+    <model name='car_wheel_0_clone_4_clone'>
+      <link name='link'>
+        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
+        <inertial>
+          <mass>12</mass>
+          <inertia>
+            <ixx>0.167005</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.167005</iyy>
+            <iyz>0</iyz>
+            <izz>0.282065</izz>
+          </inertia>
+        </inertial>
+        <collision name='collision'>
+          <geometry>
+            <cylinder>
+              <radius>0.21682</radius>
+              <length>0.16116</length>
+            </cylinder>
+          </geometry>
+          <surface>
+            <friction>
+              <ode>
+                <mu>1</mu>
+                <mu2>1</mu2>
+                <fdir1>0 0 1</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+            <contact>
+              <ode>
+                <min_depth>0.005</min_depth>
+                <kp>1e+08</kp>
+              </ode>
+            </contact>
+            <bounce/>
+          </surface>
+          <max_contacts>10</max_contacts>
+        </collision>
+        <visual name='visual'>
+          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose frame=''>7.35393 -17.1571 3.2188 -3.13437 -1.56724 3.13457</pose>
+    </model>
+    <model name='car_wheel_0_clone_4_clone_clone'>
+      <link name='link'>
+        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
+        <inertial>
+          <mass>12</mass>
+          <inertia>
+            <ixx>0.167005</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.167005</iyy>
+            <iyz>0</iyz>
+            <izz>0.282065</izz>
+          </inertia>
+        </inertial>
+        <collision name='collision'>
+          <geometry>
+            <cylinder>
+              <radius>0.21682</radius>
+              <length>0.16116</length>
+            </cylinder>
+          </geometry>
+          <surface>
+            <friction>
+              <ode>
+                <mu>1</mu>
+                <mu2>1</mu2>
+                <fdir1>0 0 1</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+            <contact>
+              <ode>
+                <min_depth>0.005</min_depth>
+                <kp>1e+08</kp>
+              </ode>
+            </contact>
+            <bounce/>
+          </surface>
+          <max_contacts>10</max_contacts>
+        </collision>
+        <visual name='visual'>
+          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose frame=''>10.2265 -17.0946 3.2188 -3.13438 -1.56724 3.13458</pose>
+    </model>
+    <model name='car_wheel_0_clone_4_clone_clone_0'>
+      <link name='link'>
+        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
+        <inertial>
+          <mass>12</mass>
+          <inertia>
+            <ixx>0.167005</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.167005</iyy>
+            <iyz>0</iyz>
+            <izz>0.282065</izz>
+          </inertia>
+        </inertial>
+        <collision name='collision'>
+          <geometry>
+            <cylinder>
+              <radius>0.21682</radius>
+              <length>0.16116</length>
+            </cylinder>
+          </geometry>
+          <surface>
+            <friction>
+              <ode>
+                <mu>1</mu>
+                <mu2>1</mu2>
+                <fdir1>0 0 1</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+            <contact>
+              <ode>
+                <min_depth>0.005</min_depth>
+                <kp>1e+08</kp>
+              </ode>
+            </contact>
+            <bounce/>
+          </surface>
+          <max_contacts>10</max_contacts>
+        </collision>
+        <visual name='visual'>
+          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose frame=''>18.0433 -5.53145 3.21877 -3.13439 -1.56724 3.13459</pose>
+    </model>
+    <model name='car_wheel_0_clone_4_clone_clone_0_clone_0'>
+      <link name='link'>
+        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
+        <inertial>
+          <mass>12</mass>
+          <inertia>
+            <ixx>0.167005</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.167005</iyy>
+            <iyz>0</iyz>
+            <izz>0.282065</izz>
+          </inertia>
+        </inertial>
+        <collision name='collision'>
+          <geometry>
+            <cylinder>
+              <radius>0.21682</radius>
+              <length>0.16116</length>
+            </cylinder>
+          </geometry>
+          <surface>
+            <friction>
+              <ode>
+                <mu>1</mu>
+                <mu2>1</mu2>
+                <fdir1>0 0 1</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+            <contact>
+              <ode>
+                <min_depth>0.005</min_depth>
+                <kp>1e+08</kp>
+              </ode>
+            </contact>
+            <bounce/>
+          </surface>
+          <max_contacts>10</max_contacts>
+        </collision>
+        <visual name='visual'>
+          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose frame=''>18.1432 7.03131 3.21876 -3.13431 -1.56724 3.13451</pose>
+    </model>
+    <model name='car_wheel_0_clone_4_clone_clone_0_clone_0_clone'>
+      <link name='link'>
+        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
+        <inertial>
+          <mass>12</mass>
+          <inertia>
+            <ixx>0.167005</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.167005</iyy>
+            <iyz>0</iyz>
+            <izz>0.282065</izz>
+          </inertia>
+        </inertial>
+        <collision name='collision'>
+          <geometry>
+            <cylinder>
+              <radius>0.21682</radius>
+              <length>0.16116</length>
+            </cylinder>
+          </geometry>
+          <surface>
+            <friction>
+              <ode>
+                <mu>1</mu>
+                <mu2>1</mu2>
+                <fdir1>0 0 1</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+            <contact>
+              <ode>
+                <min_depth>0.005</min_depth>
+                <kp>1e+08</kp>
+              </ode>
+            </contact>
+            <bounce/>
+          </surface>
+          <max_contacts>10</max_contacts>
+        </collision>
+        <visual name='visual'>
+          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose frame=''>6.67227 20.2074 3.21876 -3.13423 -1.56724 3.13443</pose>
+    </model>
+    <model name='car_wheel_0_clone_4_clone_clone_0_clone_0_clone_clone'>
+      <link name='link'>
+        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
+        <inertial>
+          <mass>12</mass>
+          <inertia>
+            <ixx>0.167005</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.167005</iyy>
+            <iyz>0</iyz>
+            <izz>0.282065</izz>
+          </inertia>
+        </inertial>
+        <collision name='collision'>
+          <geometry>
+            <cylinder>
+              <radius>0.21682</radius>
+              <length>0.16116</length>
+            </cylinder>
+          </geometry>
+          <surface>
+            <friction>
+              <ode>
+                <mu>1</mu>
+                <mu2>1</mu2>
+                <fdir1>0 0 1</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+            <contact>
+              <ode>
+                <min_depth>0.005</min_depth>
+                <kp>1e+08</kp>
+              </ode>
+            </contact>
+            <bounce/>
+          </surface>
+          <max_contacts>10</max_contacts>
+        </collision>
+        <visual name='visual'>
+          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose frame=''>9.24034 20.0922 3.21876 -3.1342 -1.56724 3.1344</pose>
+    </model>
+    <model name='car_wheel_0_clone_3_clone'>
+      <link name='link'>
+        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
+        <inertial>
+          <mass>12</mass>
+          <inertia>
+            <ixx>0.167005</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.167005</iyy>
+            <iyz>0</iyz>
+            <izz>0.282065</izz>
+          </inertia>
+        </inertial>
+        <collision name='collision'>
+          <geometry>
+            <cylinder>
+              <radius>0.21682</radius>
+              <length>0.16116</length>
+            </cylinder>
+          </geometry>
+          <surface>
+            <friction>
+              <ode>
+                <mu>1</mu>
+                <mu2>1</mu2>
+                <fdir1>0 0 1</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+            <contact>
+              <ode>
+                <min_depth>0.005</min_depth>
+                <kp>1e+08</kp>
+              </ode>
+            </contact>
+            <bounce/>
+          </surface>
+          <max_contacts>10</max_contacts>
+        </collision>
+        <visual name='visual'>
+          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose frame=''>-22.3049 20.0084 3.2193 -0.874257 -1.57053 1.31236</pose>
+    </model>
+    <model name='car_wheel_0_clone_4_clone_clone_0_clone'>
+      <link name='link'>
+        <pose frame=''>0 0 0.21682 0 1.5707 0</pose>
+        <inertial>
+          <mass>12</mass>
+          <inertia>
+            <ixx>0.167005</ixx>
+            <ixy>0</ixy>
+            <ixz>0</ixz>
+            <iyy>0.167005</iyy>
+            <iyz>0</iyz>
+            <izz>0.282065</izz>
+          </inertia>
+        </inertial>
+        <collision name='collision'>
+          <geometry>
+            <cylinder>
+              <radius>0.21682</radius>
+              <length>0.16116</length>
+            </cylinder>
+          </geometry>
+          <surface>
+            <friction>
+              <ode>
+                <mu>1</mu>
+                <mu2>1</mu2>
+                <fdir1>0 0 1</fdir1>
+                <slip1>0</slip1>
+                <slip2>0</slip2>
+              </ode>
+              <torsional>
+                <ode/>
+              </torsional>
+            </friction>
+            <contact>
+              <ode>
+                <min_depth>0.005</min_depth>
+                <kp>1e+08</kp>
+              </ode>
+            </contact>
+            <bounce/>
+          </surface>
+          <max_contacts>10</max_contacts>
+        </collision>
+        <visual name='visual'>
+          <pose frame=''>0 0 -0.08058 0 -0 0</pose>
+          <geometry>
+            <mesh>
+              <uri>model://car_wheel/meshes/car_wheel.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose frame=''>18.0059 20.4788 3.21869 -3.13407 -1.56724 3.13427</pose>
     </model>
   </world>
 </sdf>
